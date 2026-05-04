@@ -6,6 +6,6 @@ All statistical analyses were performed in R, and the final document was produce
 
 # Dataset
 The dataset used in this project was obtained from https://www.kaggle.com/datasets/archit9406/bike-sharing?select=day.csv by Archit9406.
-The file's original name is day.csv
+The file's original name is day.csv.
 
 All analysis and visualizations were developed independently.
