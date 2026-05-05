@@ -1,5 +1,3 @@
-###Tesina inferenza (Seconda parte)
-
 ##Introduzione al dataset
 
 ##Importo il dataset
